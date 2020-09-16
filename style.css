@@ -24,7 +24,7 @@ p{
 	font-family: 'Roboto', sans-serif;
 }
 .jumbotron{
-	background-color:rgba(255,255,255,0.5) !important;
+	background-color:rgba(255,255,255,0.6) !important;
 }
 .btn-font{
 	font-family: 'Saira Extra Condensed', sans-serif;
@@ -59,13 +59,13 @@ a.nav-item{
     text-align: center;
 }
 .bgZaKontakt1{
-    background-color: rgba(255, 153, 255,0.5);
+    background-color: rgba(255, 153, 255,0.6);
 	font-family: 'Saira Extra Condensed', sans-serif;
 	text-align:center;
 	
 }
 .bgZaKontakt2{
-	background-color:rgba(153,255,255,0.5);
+	background-color:rgba(153,255,255,0.6);
 	font-family: 'Saira Extra Condensed', sans-serif;
 	text-align:center;
 }
