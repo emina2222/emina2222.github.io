@@ -1,0 +1,153 @@
+@charset "ISO-8859-1";
+
+.pozadina{
+	background-image:url("images/sky1.jpg");
+	background-attachment:fixed;
+}
+
+h1{
+	text-align: center;
+	font-family: 'Anton', sans-serif;
+}
+h4{
+	font-family: 'Anton', sans-serif;
+}
+
+.banner-text{
+	font-family: 'Sacramento', cursive;
+	text-align: center;
+}
+.centar{
+	text-align:center;
+}
+p{
+	font-family: 'Roboto', sans-serif;
+}
+.jumbotron{
+	background-color:rgba(255,255,255,0.5) !important;
+}
+.btn-font{
+	font-family: 'Saira Extra Condensed', sans-serif;
+	background-color:white !important;
+	border:1px solid green !important;
+	border-radius:0%;
+}
+.navigacijaPozadina{
+    font-size: 1.5em;
+    font-family: 'Saira Extra Condensed', sans-serif;
+    color:black;
+    border-top: 3px solid transparent;
+}
+.linijaIznadAktivnog{
+    border-top: 3px solid #cc99ff !important;
+}
+a.nav-item:hover{
+    border-top: 3px solid #cc99ff !important;
+}
+a.nav-item{
+    border-top: 3px solid transparent;
+}
+.navbar-nav a{
+	color:black !important;
+}
+.tekstDobrodoslice{
+    font-size: 3em;
+    font-family: 'Rajdhani';
+}
+.oznake{
+    font-size: 3em;
+    text-align: center;
+}
+.bgZaKontakt1{
+    background-color: rgba(255, 153, 255,0.5);
+	font-family: 'Saira Extra Condensed', sans-serif;
+	text-align:center;
+	
+}
+.bgZaKontakt2{
+	background-color:rgba(153,255,255,0.5);
+	font-family: 'Saira Extra Condensed', sans-serif;
+	text-align:center;
+}
+.profil{
+    margin-bottom: 0.5em;
+    background-color: rgba(255, 153, 255,0.3);
+    font-family: 'Sriracha', sans-serif;
+}
+ul{
+	list-style-type:none;
+}
+ul li{
+    font-family: 'Sriracha', sans-serif;
+    font-size: 1.1em;
+}
+.prelaz:hover{
+    color:white;
+}
+.prelaz2:hover{
+	color:#cc99ff;
+}
+.oznake{
+    font-size: 3em;
+    text-align: center;
+}
+.oznake:hover{
+    color:white;
+}
+hr.new{
+	border-top: 1px solid black;
+}
+.footerP{
+    background-color: black;
+    padding:1%;
+    margin-top:2%;
+}
+.kopirajt{
+    font-size: 2em;
+}
+.footFont{
+	color:white;
+	font-family: 'Saira Extra Condensed', sans-serif;
+}
+.cv-link{
+	background-color:lightgrey;
+	border:1px solid black;
+	border-radius:0%;
+	font-family: 'Saira Extra Condensed', sans-serif;
+	color: black;
+	text-decoration:none;
+	padding:1%;
+	font-size:1.4em;
+}
+.cv-link:hover{
+	text-decoration:none;
+	background-color:black;
+	color:white;
+}
+.learn-more{
+	background-color:white;
+	border:1px solid black;
+	border-radius:0%;
+	font-family: 'Saira Extra Condensed', sans-serif;
+	color: black;
+	text-decoration:none;
+	padding:1%;
+	font-size:1.4em;
+}
+.learn-more:hover{
+	text-decoration:none;
+	background-color:green;
+	color:white;
+}
+.footIkone{
+	color:white;
+	font-size: 3em;
+    text-align: center;
+}
+.footIkone:hover{
+	color:#cc99ff;
+}
+.padding{
+	padding:2%;
+}
+
