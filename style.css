@@ -70,7 +70,7 @@ a.nav-item{
 	text-align:center;
 }
 .profil{
-    margin-bottom: 0.5em;
+    /*margin-bottom: 0.5em;*/
     background-color: rgba(255, 153, 255,0.6);
     font-family: 'Sriracha', sans-serif;
 }
